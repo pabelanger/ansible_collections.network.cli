@@ -1,6 +1,8 @@
 ---
 authors:
   - Ansible Network Community (ansible-network)
+build_ignore:
+  - artifacts
 license_file: LICENSE
 name: cli
 namespace: network
